@@ -1,0 +1,30 @@
+body{
+width: 50%;
+margin: auto;
+}
+table{
+border-collapse:collapse;
+}
+
+td{
+border: 1px solid;color:black;
+border-collapse:collapse;
+border-top-color: black;
+border-bottom-color:black;
+width: 30px;
+height: 30px;
+
+}
+.j{
+    background-color: yellow;
+
+}
+.g{
+    background-color: grey;
+}
+.n{
+background-color: black;
+}
+.b{
+background-color: blue;
+}

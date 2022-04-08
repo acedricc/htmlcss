@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire</title>
+    <link rel="stylesheet" href="../CSS/03_formulaire.css">
+</head>
+<body>
+    <!--je declare mon formulaire avec la balise form-->
+   <form>
+       <label for="pseudo">Pseudo</label>
+       <input type="text" id="pseudo" name="pseudo"placeholder="TitiVLG"required>
+       <!--required indique que le cgamps doit etre renseigné-->
+       <!--mot de passe-->
+       <label for="mdp">Mot de passe *</label>
+       <input type="password"id="mdp" placeholder="Mot de passe" required>
+       <br>
+       <!--email-->
+       <label for="email">E-mail *</label>
+       <input type="email" id="email"name="email"placeholder="nom@email.com"required>
+       <br>
+       <!--fichier-->
+       <label for="photo">Photo</label>
+       <input type="file" id="photo"name="photo">
+       <!--case a cocher-->
+       <label for="question">Quelle destination choisissez-vous</label>
+       <p>
+           <input type="checkbox" id="Chine" name="question">Chine
+           <input type="checkbox" id="Australie" name="question">Australie
+           <input type="checkbox" id="Mars" name="question">Mars
+       </p>
+    <!--Zone texte-->
+    <label for="commentaire">Commentaire</label>
+    <textarea name="textarea" id="commentaire" cols="80" rows="8"></textarea>
+    <!--rows nombre de lignes - cols nombre de colones/caracteres-->
+    <br>
+    <!--bouton d'envoi du formulaire-->
+    <label for="submit" id="inscription" name="inscription" value="envoyer"></label>
+    <!--bouton pour valider le formulaire-->
+    <input type="reset" id="annuler" name="annuler"value=Annuler>
+    <br>
+    </form>
+    
+</body>
+</html>

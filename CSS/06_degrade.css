@@ -1,0 +1,10 @@
+.contenu{
+background: linear-gradient(to left,#40a497,#6840a4);
+/* degrade qui démarre avec la premiere couleur et qui fini de haut en bas (par defaut)to left=de gauche a droite */
+width: 45em;
+height:45em ;
+margin: 0 auto;
+border-radius: 50%;
+/* permet d'arrondir les angles  */
+
+}
