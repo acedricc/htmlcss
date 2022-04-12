@@ -1,0 +1,52 @@
+body{
+    margin:0 auto;
+    background-color: brown;
+    /*
+    margin 0 auto 0 auto;-> haut droite bas gauche
+    margin:0;
+    margin 0 auto1;(gauche->auto)
+    */
+}
+div{
+    width: 90%;
+    margin: 0;
+    background-color: lightsteelblue;
+}
+p{
+    background-color: mediumaquamarine;
+    /*propriété suivante a tester 
+    display inline */
+
+}
+p span {
+    /*selectionne les span contenus dans des p */
+background-color: yellow;
+}
+.boite{
+    height:11vh;
+    width: 18vh;
+    padding: 5vh;
+    background: url(../img/siamois.jpg);
+    background-repeat: no-repeat;
+    border: 5px double orchid;
+    /*taille ,style,couleur de la bordure*/
+    margin: 2vh;
+    float: left; 
+    transition: margin 0.5s;
+
+}
+.boite:hover{
+    margin-top: 10vh;
+
+
+/* la pseudo-classe :hover modifie un affichage au survol de la s*/
+
+}
+.clear{
+    clear: both;
+    /*supprimer l'effet flottant*/
+}
+.p:hover{
+    color: blue;
+
+}

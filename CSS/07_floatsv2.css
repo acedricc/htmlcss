@@ -1,0 +1,26 @@
+.clear{
+    clear: both;
+
+}
+.boitev{
+height: 50px;
+width: 50px;
+padding: 5vh;
+background-color:green;
+border: 5px solid rgb(7, 7, 7);
+float: left;
+border-radius: 10px;
+}
+
+
+.boite2{
+    height: 50px;
+    width: 50px;
+    padding: 5vh;
+    background-color:green;
+    border: 5px solid rgb(0, 0, 0);
+    margin: 2vh;
+    float: left;
+    border-radius: 10px;
+  
+}

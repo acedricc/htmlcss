@@ -1,0 +1,120 @@
+
+.boitev{
+height: 50px;
+width: 50px;
+padding: 5vh;
+background-color: green;
+border: 5px solid rgb(7, 7, 7);
+margin: 2vh;
+border-top-left-radius:  20%;;
+border-bottom-left-radius: 35%;
+border-bottom-right-radius:25% ;
+border-top-right-radius:30% ;
+}
+.boiteb{
+    height: 50px;
+width: 50px;
+padding: 5vh;
+background-color: aqua;
+border: 5px solid rgb(7, 7, 7);
+margin: 2vh;
+border-top-left-radius:  40%;;
+border-bottom-left-radius: 10%;
+border-bottom-right-radius:25% ;
+border-top-right-radius:10% ;
+
+}
+.boites{
+    height: 50px;
+width: 50px;
+padding: 5vh;
+background-color: lightcoral;
+border: 5px solid rgb(7, 7, 7);
+margin: 2vh;
+border-radius: 10px;
+border-top-left-radius:  15%;;
+border-bottom-left-radius: 35%;
+border-bottom-right-radius:15% ;
+border-top-right-radius:40% ;
+
+}
+.boiteb2{
+    height: 50px;
+width: 50px;
+padding: 5vh;
+background-color: aquamarine;
+border: 5px solid rgb(7, 7, 7);
+margin: 2vh;
+border-radius: 100px;
+display: flex;
+}
+.boiter{
+    height: 50px;
+    width: 50px;
+    padding: 5vh;
+    background-color: red;
+    border: 5px solid rgb(7, 7, 7);
+    margin: 2vh;
+    border-radius: 10px;
+    }
+    .blanc{
+        height: 50px;
+    width: 50px;
+    padding: 5vh;
+    background-color: white;
+    border: 5px solid white;
+    margin: 2vh;
+    border-radius: 10px;
+    
+    }
+.contenu1{
+    flex-direction: row;
+align-content: flex-end;
+flex-wrap: wrap;
+display: flex;
+}
+.contenu2{
+    flex-direction: row;
+    align-content: flex-end;
+    flex-wrap:wrap ;
+    display: flex;
+    }
+
+    .contenu3{
+        flex-direction: row;
+        align-content: flex-end;
+        flex-wrap:wrap;
+        display: flex;
+        }
+        .contenu4{
+            flex-direction: row;
+            align-content: flex-end;
+            flex: wrap;
+            display: flex;
+            }
+            .contenu5{
+                align-content: flex-end;
+                flex-direction: row;
+                flex-wrap:wrap ;
+                display: flex;
+                }
+                .contenu6{
+                    align-content: flex-end;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    display: flex;
+                    }
+
+
+   
+   
+   
+   
+
+
+
+
+
+
+
+

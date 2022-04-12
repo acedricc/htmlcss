@@ -1,0 +1,35 @@
+h1{
+text-align:center ;
+background-color: aqua;  
+border: solid palevioletred;
+}
+div{
+text-align: center;
+background-color: aquamarine;
+border: solid palevioletred;
+}
+p{
+ text-align: center;  
+ background-color: aqua; 
+ border: solid palevioletred;
+}
+a{
+    text-align: center;
+    background-color: aquamarine;
+    border: solid palevioletred;
+}
+section{
+    text-align: center;
+    background-color: aqua;
+    border: solid palevioletred;
+}
+span{
+    
+    background-color: aqua;
+    border: solid palevioletred;
+}
+
+1{
+text-align: center;
+}
+  
