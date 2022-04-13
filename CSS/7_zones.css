@@ -1,0 +1,76 @@
+.tout {
+  width: 800px;
+  height: 600px;
+  background-color: cadetblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+  text-align: center;
+  color: black;
+  background-color: red;
+  height: auto;
+  padding: 1em;
+}
+.contenu {
+  width: 500px;
+  float: left;
+}
+
+.bleu {
+  background-color: blue;
+  float: left;
+  height: 530px;
+  width: 150px;
+}
+.zone1 {
+  background: #55d87c;
+  border: 1px solid;
+  float: left;
+  height: 448px;
+  width: 98px;
+}
+.zone2 {
+  background: #55d87c;
+  border: 1px solid;
+  float: left;
+  height: 448px;
+  width: 98px;
+}
+.zone3 {
+  background: #55d87c;
+  border: 1px solid;
+  float: left;
+  height: 448px;
+  width: 98px;
+}
+.zone4 {
+  background: #55d87c;
+  border: 1px solid;
+  float: left;
+  height: 448px;
+  width: 98px;
+}
+.zone5 {
+  background: #55d87c;
+  border: 1px solid;
+  float: left;
+  height: 448px;
+  width: 98px;
+}
+.bleu2 {
+  background-color: blue;
+  float: left;
+  height: 530px;
+  width: 150px;
+}
+
+footer {
+  background-color: yellow;
+  height: 80px;
+  left: 150px;
+  width: 500px;
+}
+.clear {
+  clear: both;
+}
