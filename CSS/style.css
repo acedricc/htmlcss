@@ -1,0 +1,74 @@
+body {
+  margin: 0%;
+}
+header {
+  background-color: blueviolet;
+  width: auto;
+  height: 70px;
+}
+nav {
+  float: left;
+  width: 300px;
+}
+
+.gauche {
+  color: white;
+  background-color: cyan;
+  margin: 20px;
+  height: 25px;
+  padding: 0.5em;
+}
+
+.milieu {
+  float: left;
+  width: 778px;
+}
+.droite {
+  float: left;
+  background-color: cyan;
+  margin-top: 15px;
+}
+#What {
+  text-align: center;
+  color: white;
+}
+#Where {
+  text-align: center;
+  color: white;
+}
+#How {
+  text-align: center;
+  color: white;
+}
+.clear {
+  clear: both;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+.img1 {
+  float: left;
+  width: 300px;
+}
+.img2 {
+  float: left;
+  width: 300px;
+}
+.img3 {
+  float: left;
+  width: 300px;
+}
+.img4 {
+  float: left;
+  width: 300px;
+}
+footer {
+  background-color: aqua;
+  height: 60px;
+  line-height: 50px;
+  margin-right: 5px;
+}
+h2 {
+}
