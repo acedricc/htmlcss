@@ -1,0 +1,46 @@
+table {
+  border: solid 2px black;
+  width: 650px;
+  height: 250px;
+}
+.equipe1 {
+  color: red;
+  width: auto;
+  text-align: center;
+}
+.e2 {
+  border: solid 1px black;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+}
+.e3 {
+  border: solid 1px black;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+}
+.e4 {
+  border: solid 1px black;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+}
+.e5 {
+  border: solid 1px black;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+}
+.e6 {
+  border: solid 1px black;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+}
+.e7 {
+  border: solid 1px black;
+  text-align: center;
+  width: 650px;
+  height: 20px;
+}

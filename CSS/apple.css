@@ -1,0 +1,105 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  display: flex;
+  background-color: #1d1d1f;
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+header div {
+  margin: 22px;
+  color: rgba(128, 128, 128, 0.808);
+  height: auto;
+  width: auto;
+}
+.apple {
+  height: auto;
+  background-color: #1d1d1f;
+  width: auto;
+}
+.loupe {
+  height: auto;
+  background-color: #1d1d1f;
+  width: auto;
+}
+section {
+  text-align: center;
+  padding: 50px;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.pro {
+  font-size: 40px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+a {
+  color: blue;
+}
+.contenu2 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.contenu3 {
+  background-color: black;
+  color: #f5f5f7;
+  width: auto;
+  height: 550px;
+  text-align: center;
+  padding-top: 95px;
+}
+.ipad {
+  float: right;
+  width: 700px;
+}
+.SE {
+  display: flex;
+  justify-content: center;
+}
+.se {
+  border: solid 6px #1d1d1f;
+  border-top-left-radius: 25%;
+  border-top-right-radius: 25%;
+  border-bottom-right-radius: 25%;
+  border-bottom-left-radius: 25%;
+  margin-left: 15px;
+  font-size: 50px;
+}
+.nouvel {
+  margin: 80px;
+}
+.panier {
+  height: auto;
+  width: auto;
+}
+a {
+  margin-left: 35px;
+  font-size: 25px;
+  text-decoration: none;
+}
+.texte {
+  text-align: center;
+  padding: 150px;
+}
+.sous {
+  font-weight: bold;
+  font-size: 27px;
+}
+.sous {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.plus {
+  display: flex;
+}

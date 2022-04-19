@@ -1,0 +1,68 @@
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+  width: auto;
+  height: 80px;
+  padding: 14px;
+}
+header {
+  background-color: black;
+  margin: 0px;
+}
+.profil {
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 10px;
+}
+p {
+  text-align: center;
+  color: gray;
+  width: 100%;
+  margin-top: auto;
+}
+.ninho {
+  width: 184px;
+  height: 184px;
+  margin: 20px;
+}
+.niska {
+  width: 184px;
+  height: 184px;
+  margin: 20px;
+}
+.tiako {
+  width: 184px;
+  height: 184px;
+  margin: 20px;
+}
+.leto {
+  width: 184px;
+  height: 184px;
+  margin: 20px;
+}
+.koba {
+  width: 184px;
+  height: 184px;
+  margin: 20px;
+}
+.gerer {
+  width: 160px;
+  margin: auto;
+  padding: 2em;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  font-family: Helvetica, sans-serif;
+}
+#ger {
+  color: gray;
+  border: solid gray 1px;
+  font-size: 22px;
+  padding: 1em;
+}
