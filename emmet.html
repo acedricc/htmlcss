@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!--<li>p          ----------------------------------------->
+
+    <li>
+      <p></p>
+    </li>
+    <!-- ul>li>p            ------------------------------------->
+    <ul>
+      <li>
+        <p></p>
+      </li>
+    </ul>
+    <!-- ul>li*3>p+img            ------------------------------->
+    <ul>
+      <li>
+        <p></p>
+        <img src="" alt="" />
+      </li>
+      <li>
+        <p></p>
+        <img src="" alt="" />
+      </li>
+      <li>
+        <p></p>
+        <img src="" alt="" />
+      </li>
+    </ul>
+    <!-- ul.wrapper          ------------------------------------>
+    <ul class="wrapper"></ul>
+    <!-- ul.container          ---------------------------------->
+    <ul class="container"></ul>
+    <!-- ul>(header>ul>li*2>a)+footer>p          ---------------->
+    <ul>
+      <header>
+        <ul>
+          <li><a href=""></a></li>
+          <li><a href=""></a></li>
+        </ul>
+      </header>
+      <footer>
+        <p></p>
+      </footer>
+    </ul>
+    <!-- ul>(li>p+img+a)+li*2>p+img           --------------------->
+    <ul>
+      <li>
+        <p></p>
+        <img src="" alt="" /><a href=""></a>
+      </li>
+      <li>
+        <p></p>
+        <img src="" alt="" />
+      </li>
+      <li>
+        <p></p>
+        <img src="" alt="" />
+      </li>
+    </ul>
+  </body>
+</html>
+<!--   a{click me}           ----------------------------------------->
+<a href="">click me</a>
+<!--   p>{Click }+a{here}+{ to continue}           ------------------->
+<p>Click <a href="">here</a> to continue</p>
+<!--   ul>li.item$*5           --------------------------------------->
+<ul>
+  <li class="item1"></li>
+  <li class="item2"></li>
+  <li class="item3"></li>
+  <li class="item4"></li>
+  <li class="item5"></li>
+</ul>
+
+<!--   ul>li.item$@3*5          -------------------------------------->
+<ul>
+  <li class="item3"></li>
+  <li class="item4"></li>
+  <li class="item5"></li>
+  <li class="item6"></li>
+  <li class="item7"></li>
+</ul>
+<!--    ul>li.items$@-{pizza $@-}*5        --------------------------->
+<ul>
+  <li class="items5">pizza 5</li>
+  <li class="items4">pizza 4</li>
+  <li class="items3">pizza 3</li>
+  <li class="items2">pizza 2</li>
+  <li class="items1">pizza 1</li>
+</ul>
+<!--      div>p>em{hello}^a
+          div>(p>em{hello})+a         ------------------------------->
+<div>
+  <p><em>hello</em></p>
+  <a href=""></a>
+</div>
+<!--       img[src="htpp://placecage.com/300/300"alt=ninCage"]      -->
+<img src="htpp://placecage.com/300/300" alt="ninCage" />
+div.list>ul>(li.item$>p{paragraph
+$}+img[src="http://placecage.com"/300/300"])+li.item$@2*4>p{paragraph
+$@2}+img[src="http://placesheen.com/$@1$$/$@"]

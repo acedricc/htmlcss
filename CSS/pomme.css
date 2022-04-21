@@ -1,0 +1,69 @@
+body {
+  background-color: darkkhaki;
+  width: 100%;
+  margin: auto;
+}
+header {
+  padding: 100px;
+  background-color: white;
+  width: 400px;
+  margin: auto;
+  background-image: url(../img/apple.jpg);
+  background-repeat: no-repeat;
+}
+a {
+  background: url(../img/title.gif) no-repeat right top;
+  width: 397px;
+  height: 69px;
+  float: right;
+}
+.etape {
+  display: flex;
+  background-color: darkkhaki;
+  margin: auto;
+  justify-content: space-around;
+  border: solid 1px black;
+}
+main {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  height: 500px;
+}
+.titre {
+  color: khaki;
+  font-size: 30px;
+  padding-left: 20px;
+  text-decoration: underline;
+}
+.sous {
+  color: khaki;
+  font-size: 30px;
+  padding-left: 20px;
+  text-decoration: underline;
+}
+p {
+  padding-left: 20px;
+}
+.e1 {
+  border-right: solid 4px black;
+  padding-right: 6px;
+}
+.e2 {
+  border-right: solid 4px black;
+  padding-right: 6px;
+}
+
+.e3 {
+  border-right: solid 4px black;
+  padding-right: 6px;
+}
+
+.e4 {
+  border-right: solid 4px black;
+  padding-right: 6px;
+}
+.e5 {
+  border-right: solid 4px black;
+  padding-right: 6px;
+}
