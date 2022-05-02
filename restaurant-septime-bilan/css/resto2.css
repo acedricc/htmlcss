@@ -1,0 +1,13 @@
+header {
+  text-align: center;
+}
+.city {
+  display: flex;
+}
+.menu {
+  display: flex;
+}
+.container {
+  margin: auto;
+  width: 50%;
+}

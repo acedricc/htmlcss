@@ -1,0 +1,117 @@
+header {
+  padding-top: 35px;
+  width: 25%;
+  text-align: center;
+}
+
+.bilan {
+  font-size: 30px;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.city {
+  font-size: 10px;
+  color: brown;
+}
+.bloc {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 50%;
+  background-color: rgb(238, 238, 240);
+
+  margin: auto;
+}
+
+.bloc0 {
+}
+img {
+  width: 50%;
+}
+.titre {
+  border-bottom: solid 1px black;
+}
+.to {
+}
+
+.texte {
+  width: 50%;
+  margin: 15px;
+}
+.note {
+  background-color: black;
+  color: white;
+  width: 40%;
+}
+.bloc1 {
+  display: flex;
+  align-items: center;
+}
+.texte2 {
+  width: 50%;
+  margin: 15px;
+}
+.bloc2 {
+  display: flex;
+  align-items: center;
+}
+.bloc3 {
+  display: flex;
+  align-items: center;
+}
+.texte3 {
+  width: 50%;
+  margin: 15px;
+}
+.bloc4 {
+  display: flex;
+  align-items: center;
+}
+footer {
+  padding-top: 35px;
+  width: 25%;
+  text-align: center;
+  height: 250px;
+}
+.sept {
+  font-size: 30px;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.bloc5 {
+  display: flex;
+  justify-content: center;
+}
+.rue {
+  font-size: 10px;
+  margin: 2px;
+}
+.num {
+  margin: 2px;
+  font-size: 10px;
+}
+.lun {
+  margin: 0px;
+  font-size: 10px;
+}
+.etoile {
+  background-color: black;
+}
+.plan {
+  position: relative;
+}
+.guide {
+  color: brown;
+  position: absolute;
+  margin-left: 75px;
+  padding-top: 20px;
+  font-size: 15px;
+}
+.bloc0 {
+  display: flex;
+}

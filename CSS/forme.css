@@ -1,0 +1,61 @@
+body {
+  height: 800px;
+}
+.container {
+}
+.haut {
+  display: flex;
+}
+.rouge {
+  background-color: red;
+  border: transparent;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 0px;
+}
+.bleu {
+  background-color: blue;
+  border: solid transparent;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  right: 1px;
+  top: 0px;
+}
+.vert {
+  background-color: green;
+  border: solid transparent;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+.jaune {
+  background-color: yellow;
+  border: solid transparent;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right: 1px;
+  bottom: 0px;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid violet;
+  position: fixed;
+  left: calc(50% - 40px);
+}
+.rond {
+  height: 55px;
+  width: 55px;
+  background-color: aqua;
+  border-radius: 50%;
+  position: relative;
+  left: calc(50% - 40px);
+}
