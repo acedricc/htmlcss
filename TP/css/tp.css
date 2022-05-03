@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Kufam:wght@400;500;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Kufam", cursive;
+}
+.container {
+  width: 60%;
+  margin: auto;
+}
+.defile {
+  color: white;
+  border: double white;
+}
+#oiseau {
+  width: 3%;
+}
+.menu {
+  display: flex;
+  color: white;
+}
+header {
+  background: linear-gradient(rgb(45, 253, 149), rgb(34, 193, 195));
+  width: 100%;
+}
+nav {
+  justify-content: end;
+}
+.logo {
+  display: flex;
+}
+section {
+  width: auto;
+  margin: 1rem;
+}
+/* .img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+} */
+.img1 {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+}
+.japon {
+  display: flex;
+  width: auto;
+  background: linear-gradient(rgb(191, 129, 148), rgb(86, 166, 241));
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.p1 {
+  color: white;
+  width: 600px;
+}
+.thailande {
+  display: flex;
+  width: auto;
+  background: linear-gradient(rgb(97, 227, 194), rgb(70, 134, 195));
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.img2 {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 2rem;
+  margin-left: 4rem;
+}
+.p2 {
+  color: white;
+}
+#p2 {
+  padding-left: 15rem;
+}
+.thai {
+  width: 600px;
+  padding-left: 3rem;
+}
+.inde {
+  display: flex;
+  width: auto;
+  background: linear-gradient(rgb(226, 132, 23), rgb(92, 144, 181));
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.img3 {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 2rem;
+}
+.p3 {
+  color: white;
+  width: 600px;
+  padding-left: 17rem;
+}
+.ind {
+  padding-left: 26rem;
+}
+footer {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(rgb(45, 253, 149), rgb(34, 193, 195));
+  width: 100%;
+  height: 100px;
+  color: white;
+  width: 100%;
+}
+.sec1 {
+  align-self: center;
+  margin: auto;
+}
+.sec2 {
+  align-self: center;
+}
+.sec3 {
+  align-self: center;
+}
+.ate {
+  display: flex;
+  justify-content: end;
+}
