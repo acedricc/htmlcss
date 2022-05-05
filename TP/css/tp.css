@@ -24,7 +24,8 @@ header {
   width: 100%;
 }
 nav {
-  justify-content: end;
+  display: flex;
+  justify-content: space-around;
 }
 .logo {
   display: flex;
@@ -128,6 +129,10 @@ footer {
   align-self: center;
 }
 .ate {
+  display: flex;
+  justify-content: end;
+}
+.paiement {
   display: flex;
   justify-content: end;
 }
