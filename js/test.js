@@ -115,5 +115,27 @@
 // for (var i = 25; i<=35;i+=2){
 //     document.write("<p>Instruction exécutée:"+i+"</p>");
 // }
+// var j = prompt("Inserez votre prénom")
+// while(j!="cedric" ){
+//     j = prompt("La valeur n'est pas correcte Inserez votre prénom")
+// }
+// document.write("<hr/><p>Votre Prénom est:"+j+"</p>");
+// var tps=0
+// for (var monCompte = 1000 ; monCompte<=2000; monCompte+=50){
+//       document.write("<p>Paye du mois:"+monCompte+"</p>"+"Mois"+  tps);
+//       tps++
+// }
+// var monCompte =1000;
+// var mois = 0;
+// while(monCompte<2000){
+//     monCompte+=50;
+//     mois++;
+// }
+// document.write("<h3>Sous sur mon compte"+monCompte+"</h3>");
+// document.write("<p>Jusqu'a 2000€,il me faut :"+mois+"mois")
+var majarotité=18
+var age=parseInt(prompt("Indiquez votre age"));
+while((age >=3)||(age<120)){
+    age=parseInt(prompt("Indiquez votre age"));
 
-var nb1=
+}

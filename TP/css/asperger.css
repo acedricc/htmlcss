@@ -1,0 +1,42 @@
+* {
+  box-sizing: ;
+}
+body {
+  margin: 0;
+}
+header {
+  display: flex;
+  justify-content: end;
+  background-image: url(../img/bois.jpg);
+  height: auto;
+  width: 100%;
+}
+nav {
+}
+.cerf {
+  width: 5%;
+}
+.container {
+  width: 50%;
+  margin: auto;
+}
+.bloc1 {
+  width: 40%;
+}
+.asperge {
+  width: 100%;
+}
+.sec1,
+.sec2 {
+  display: flex;
+  width: auto;
+}
+.bloc2 {
+  width: 60%;
+  display: flex;
+}
+.bloc3 {
+}
+.savon {
+  width: 50%;
+}
