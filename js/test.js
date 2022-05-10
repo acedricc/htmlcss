@@ -133,9 +133,41 @@
 // }
 // document.write("<h3>Sous sur mon compte"+monCompte+"</h3>");
 // document.write("<p>Jusqu'a 2000€,il me faut :"+mois+"mois")
-var majarotité=18
-var age=parseInt(prompt("Indiquez votre age"));
-while((age >=3)||(age<120)){
-    age=parseInt(prompt("Indiquez votre age"));
+// var majarotité=18
+// var age=parseInt(prompt("Indiquez votre age"));
+// while((age >=3)||(age<120)){
+//     age=parseInt(prompt("Indiquez votre age"));
+
+// }
+// var nb1;var nb2 ;var nb3
+// nb1=Number (prompt("1ere valeurs"));
+// nb2=Number (prompt("2eme valeurs"));
+// nb3=Number (prompt("3 valeurs"));
+// nb4=nb1+nb3;
+
+// if(nb1>nb2){
+// nb1=nb3*2
+// }else if(nb3<nb2){
+// nb1++;
+// if(nb1==nb3){
+// nb2=(nb3*3)+nb1
+// }
+
+// }else{
+// prompt("je suis perdu")
+
+// }
+// document.write(nb1)
+// document.write(nb2)
+// document.write(nb3)
+
+nb1=Number(prompt("1ere valeur"))
+if(nb1>20){
+nb1+=50
 
 }
+else{
+nb1*3
+} 
+document.write(nb1) 
+ 
